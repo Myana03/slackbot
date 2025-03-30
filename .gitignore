@@ -1,0 +1,16 @@
+# Java
+target/
+*.iml
+*.class
+
+# IntelliJ
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+

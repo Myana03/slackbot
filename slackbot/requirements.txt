@@ -1,0 +1,6 @@
+langchain
+openai
+requests
+slack_bolt
+streamlit
+
